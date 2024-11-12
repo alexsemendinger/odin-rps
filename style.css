@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+}
+
+.scoreboard {
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+    font-size: 1.5rem;
+    width: 300px;
+    background: lightslategray;
+    text-align: center;
+}
