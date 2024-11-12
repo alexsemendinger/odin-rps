@@ -1,9 +1,13 @@
 body {
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 10px;
     justify-content: center;
     align-items: center;
+}
+
+.header {
+    text-align: center;
 }
 
 .button-container {
